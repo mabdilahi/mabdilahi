@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mabdilahi
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on nothing rn. Trying to learn the basics!
+- ⚡ Fun fact: I built a website at 15 but can't remember anything about how I did it 😭
